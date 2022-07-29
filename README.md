@@ -2,8 +2,8 @@
 
 
 ## 🔥 About Me
-<h3 align="center">😇I'm currently pursing BE Computer Science <br> 👨‍💻I'm passionate about learning new things<br>
- 🌱 I’m currently learning **flutter**<br>
+<h3 align="center">😇I have completed my BE Computer Science graduation <br> 👨‍💻I'm passionate about learning new things<br>
+ 🌱 I’m currently learning **spring-boot with angular**<br>
 
  📫 How to reach me **jagadeeshelumalai311@gmail.com**<br></h3>
 ## 🚀 Technologies 
